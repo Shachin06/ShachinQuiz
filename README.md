@@ -1,2 +1,1 @@
-# ShachinQuiz
-web project
+# JS-CRUD-operation-
